@@ -5,7 +5,7 @@ Livro Caixa é um sistema simples baseado em PHP/MySQL para o controle mensal de
 Teve como idéia inicial o projeto Livro-Caixa de Felipe Ismael Barth (fibbarth)
 https://github.com/fibbarth
 
-Algumas melhorias:
+Algumas melhorias de ALEXANDRE LLEMES:
 * Inclusão da Bootstrap
 * Inclusão do phpSecurePages
 * Autenticação no banco com hashing e crypto na senha
